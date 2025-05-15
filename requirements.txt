@@ -1,0 +1,4 @@
+streamlit
+Pillow
+img2pdf
+opencv-python-headless
